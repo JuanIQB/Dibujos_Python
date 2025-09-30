@@ -23,7 +23,7 @@ def flower(n):
             
 t.bgcolor("red")
 t.pensize(8)
-t.speed(100) 123
+t.speed(100)
 
 go(-130,170)
 t.setheading(220)
