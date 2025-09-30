@@ -21,7 +21,7 @@ def flower(n):
         else:
             t.left(1)
             
-t.bgcolor("white")
+t.bgcolor("red")
 t.pensize(8)
 t.speed(100)
 
